@@ -9,4 +9,3 @@ The floor and supporting frame structure under investigation in this tool are ch
 ![General parameters Early assessment tool](https://github.com/runaneefs1999/Early-assessment-tool/assets/149003948/74af031b-7e16-4237-8d54-3f8da502df67)
 
 To obtain the LCA scores of the possible bearing structures an LCA database was made in Excel, based on EcoInvent processes obtained through the SimaPro software. This database only includes LCA data for modules A1 to A3 as specified by EN 15978. This created LCA database is also included in the repository, as well as an additional Excel database used by the general python script to obtain correct material cross-sections.
-![General parameters Early assessment tool](https://github.com/runaneefs1999/Early-assessment-tool/assets/149003948/74af031b-7e16-4237-8d54-3f8da502df67)
